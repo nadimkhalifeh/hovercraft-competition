@@ -1,6 +1,6 @@
 # hovercraft-competition
 
-This code was developed for the Hovercraft Competition at Concordia University, in collaboration with my team. The hovercraft successfully navigated the competition trail, overcoming all obstacles through efficient stabilization and obstacle avoidance mechanisms.
+This code was developed for the Hovercraft Competition at Concordia University in April 18, 2023, in collaboration with my team. The hovercraft successfully navigated the competition trail, overcoming all obstacles through efficient stabilization and obstacle avoidance mechanisms.
 
 It features:
 	•	Real-Time Stabilization: Maintains balance using an MPU6050 IMU.
