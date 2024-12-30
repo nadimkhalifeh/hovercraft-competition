@@ -4,5 +4,7 @@ This code was developed for the Hovercraft Competition at Concordia University i
 
 It features:
 	•	Real-Time Stabilization: Maintains balance using an MPU6050 IMU.
+ 
 	•	Obstacle Detection and Avoidance: Uses ultrasonic sensors to detect and avoid obstacles effectively.
+ 
 	•	Dynamic Maneuverability: Adjusts fan and servo motor controls for smooth and precise turns.
